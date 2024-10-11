@@ -68,10 +68,10 @@
   width: 30px;
   height: 30px;
   color: white;
-  border: black 1px solid;
-  padding: 5px;
-  border-radius: 50%;
-  filter: invert();
+  /* border: white 1px solid; */
+  /* padding: 5px; */
+  /* border-radius: 50%; */
+  object-fit: contain;
 }
 
 .hero-video {
